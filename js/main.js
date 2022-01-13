@@ -1,3 +1,6 @@
+const saveChanges = document.getElementById("saveChanges")
+const addButton = document.getElementById("addButton")
+const inputChoices = document.getElementById("inp")
 const userLabel = document.getElementById("label")
 const userChoices = document.getElementById("currentList")
 const userDefault = document.getElementById("defaultchoice")
