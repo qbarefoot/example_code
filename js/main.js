@@ -61,7 +61,7 @@ function clearForm() {
 function addChoices() {
     //builder is alerted they can not pass a blank choice to the list
     if (!inputChoices.value) {
-        alert("Choice field is required!")
+        alert("Option field is required!")
     //builder is alerted that they cannot pass more than 50 choices in the index
     } else if (userChoices.options.length >= 50){
         alert("Cannot exceed 50 values")
