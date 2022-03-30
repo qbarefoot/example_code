@@ -5,7 +5,7 @@ body {
 .field_builder {
     background-color: rgb(255, 255, 255);
     width: 375px;
-    height: 430px;
+    height: 375px;
     margin: 75px;
     border: solid #245DDA;
     border-radius: 5px;
@@ -80,9 +80,8 @@ button {
 }
 
 .box_add {
-    width: 180px;
+    width: 255px;
     padding: 5px 5px;
-    margin: 15px 0;
     box-sizing: border-box;
     border: none;
     border-bottom: 2px solid rgb(15, 15, 15);
@@ -98,6 +97,7 @@ button {
     background-color: white; 
     color: black; 
     border: 1px solid #245DDA;
+    margin-left: -66px;
 }
 
 .button_delete:hover {
@@ -131,6 +131,7 @@ button {
     background-color: white; 
     color: black; 
     border: 1px solid #245DDA;
+    margin-right: 50px;
 }
 
 .button_clear:hover {
@@ -153,10 +154,6 @@ button {
 
 .dv_label {
     margin-left: -12px;
-    font-size: 17px
-}
-
-.choices_label {
     font-size: 17px
 }
 
