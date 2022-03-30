@@ -75,7 +75,7 @@ button {
 
 .button_add:hover {
     background-color: #245DDA;
-    color: white;
+    color: #245DDA;
 }
 
 .box_add {
@@ -101,7 +101,7 @@ button {
 
 .button_delete:hover {
     background-color: #245DDA;
-    color: white;
+    color: #245DDA;
 }
 
 .button_sort {
@@ -113,7 +113,7 @@ button {
 
 .button_sort:hover {
     background-color: #245DDA;
-    color: white;
+    color: #245DDA;
 }
 
 .button_save {
@@ -125,7 +125,7 @@ button {
 
 .button_save:hover {
     background-color: #245DDA;
-    color: white;
+    color: #245DDA;
 }
 
 .button_clear {
@@ -137,7 +137,7 @@ button {
 
 .button_clear:hover {
     background-color: #245DDA;
-    color: white;
+    color: #245DDA;
 }
 
 .text_label {
