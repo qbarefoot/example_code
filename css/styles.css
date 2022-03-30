@@ -1,0 +1,146 @@
+body {
+    background-image: url("../images/windows_xp.jpg")
+}
+
+.field_builder {
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 430px;
+    margin: 75px;
+    border: solid #245DDA;
+    border-radius: 5px;
+    /* padding: 25px; */
+    /* margin: 20px;
+}
+
+h1 {
+    position: left;
+    /* top: 20px; */
+    /* padding: 20px; */
+    /* font-size: 18px;
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #245DDA;
+    max-width: 350px; */
+    /* border-radius: 25px; */
+    /* background-color: #c1eefc; */
+}
+
+h1 {
+    font-size: 18px;
+    margin: auto;
+    font-family: 8 point MS Shell Dlg 2 pseudo font;
+    text-align: left;
+    color: #ffffff;
+    height: 25px;
+    background-color: #245DDA;
+}
+
+.box_label {
+    width: 275px;
+    padding: 5px 5px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(15, 15, 15);
+}
+
+.box_default {
+    width: 225px;
+    padding: 5px 5px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(15, 15, 15);
+}
+
+button {
+    background-color: #245DDA; /* Green */
+    border: none;
+    color: white;
+    /* padding: 16px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button_add {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #245DDA;
+}
+
+.button_add:hover {
+    background-color: #245DDA;
+    color: white;
+}
+
+.box_add {
+    width: 185px;
+    padding: 5px 5px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(15, 15, 15);
+}
+
+.list_current {
+    width: 200px;
+    margin: 10px
+}
+
+.button_delete {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #245DDA;
+}
+
+.button_delete:hover {
+    background-color: #245DDA;
+    color: white;
+}
+
+.button_sort {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #245DDA;
+}
+
+.button_sort:hover {
+    background-color: #245DDA;
+    color: white;
+}
+
+.button_save {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #245DDA;
+}
+
+.button_save:hover {
+    background-color: #245DDA;
+    color: white;
+}
+
+.button_clear {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #245DDA;
+}
+
+.button_clear:hover {
+    background-color: 245DDA;
+    color: white;
+}
+
+.text_label {
+    font-size: 18px
+}
+
+.type_ms {
+    font-size: 18px
+}
