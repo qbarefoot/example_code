@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="stylesheet" href="https://unpkg.com/xp.css@0.2.3/dist/98.css" /> -->
+    <link rel="stylesheet" href="https://unpkg.com/xp.css@0.2.3/dist/98.css" />
     <link rel="stylesheet" href="css/styles.css">
     
     
@@ -21,11 +21,11 @@
     <br>
         <label class="type_ms">Type: Multi-Select:</label>
         <input id="userCheckBox" type="checkbox">
-        <label style="font-size: 18px">A Value Is Required</labeL>
+        <label for="userCheckBox" class="value_is_label">A Value Is Required</labeL>
         <br>
-        <label style="font-size: 18px">Default Value:</label>
+        <label class="dv_label">Default Value:</label>
             <input id="defaultchoice" type="text" class="box_default">
-    <label style="font-size: 18px">Choices:</label>
+    <label class="choices_label">Options:</label>
         <button id="addButton" class="button_add">Add Option</button>
         <input type="text" id="inp" class="box_add"> 
         <select id="currentList" multiple class="list_current"></select>
@@ -33,7 +33,7 @@
         <button id="deleteButton"  class="button_delete">Remove Selected Option</button>
     </label>
     <br>
-    <label style="font-size: 18px">Order:</label>
+    <label class="order_label">Order:</label>
         <button id="sortButton" class="button_sort">Display Choices In Alphabetical</button>
     <label>
         <button id="saveChanges" class="button_save">Save Changes</button> 
