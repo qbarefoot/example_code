@@ -81,7 +81,7 @@ button {
     background-color: white; 
     color: black; 
     border: 1px solid #245DDA;
-    margin-left: -97px;
+    margin-left: -98px;
 }
 
 .button_delete:hover {
@@ -93,7 +93,7 @@ button {
     background-color: white; 
     color: black; 
     border: 1px solid #245DDA;
-    margin-right: 115px
+    margin-right: 117px
 }
 
 .button_sort:hover {
@@ -105,7 +105,7 @@ button {
     background-color: white; 
     color: black; 
     border: 1px solid #245DDA;
-    margin-left: -15px
+    margin-left: -13px
 }
 
 .button_save:hover {
