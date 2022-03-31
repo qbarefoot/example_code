@@ -54,10 +54,9 @@ h1 {
 }
 
 button {
-    background-color: #245DDA; /* Green */
+    background-color: #245DDA;
     border: none;
     color: white;
-    /* padding: 16px 32px; */
     text-align: center;
     text-decoration: none;
     display: inline-block;
