@@ -28,11 +28,9 @@ h1 {
 h1 {
     font-size: 18px;
     margin: auto;
-    /* font-family: 8 point MS Shell Dlg 2 pseudo font; */
     text-align: left;
     color: #ffffff;
-    height: 25px;
-    /* background-color: #245DDA; */
+    height: 25px; 
 }
 
 .box_label {
