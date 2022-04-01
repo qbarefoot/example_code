@@ -20,4 +20,4 @@ The core requirements are completed and listed below:
 
 8. Add a button that allows the builder to clear the form and start fresh.
 
-The submit button should create a JSON object and post it to http://www.mocky.io/v2/566061f21200008e3aabd919. It should also log the post data to the console. You can add a function to FieldService in MockFieldService.js to accomplish this, but everything is up to you. Feel free to modify or change anything you would like as long as it meets the minimum requirement of posting json data to the back-end endpoint.
+9. The submit button should create a JSON object and post it to http://www.mocky.io/v2/566061f21200008e3aabd919. It should also log the POST data to the console. You can add a function to FieldService in MockFieldService.js to accomplish this. Feel free to modify or change anything you would like as long as it meets the minimum requirement of posting JSON data to the back-end endpoint.
