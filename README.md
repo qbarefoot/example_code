@@ -1,4 +1,4 @@
-# field_builder
+# Field Builder
 
 This project was designed with a Windows XP aesthetic. It demonstrates how a developer would build the admin controls of a product that allows users to create their own input forms.
 
@@ -21,3 +21,5 @@ The core requirements are completed and listed below:
 8. Add a button that allows the builder to clear the form and start fresh.
 
 9. The submit button should create a JSON object and post it to http://www.mocky.io/v2/566061f21200008e3aabd919. It should also log the POST data to the console. You can add a function to FieldService in MockFieldService.js to accomplish this. Feel free to modify or change anything you would like as long as it meets the minimum requirement of posting JSON data to the back-end endpoint.
+
+![Field Builder](https://user-images.githubusercontent.com/81591201/161296516-183fd8fa-010f-4801-b2cc-4e7f410c39e2.jpeg)
