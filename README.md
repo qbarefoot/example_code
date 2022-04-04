@@ -24,4 +24,4 @@ The core requirements are completed and listed below:
 
 ![Field Builder](https://user-images.githubusercontent.com/81591201/161296516-183fd8fa-010f-4801-b2cc-4e7f410c39e2.jpeg)
 
-The UI design comes from https://github.com/botoxparty/XP.css an extension of https://github.com/jdan/98.css/ check both of them out!
+-> The UI design comes from https://github.com/botoxparty/XP.css an extension of https://github.com/jdan/98.css/ check both of them out!
