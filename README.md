@@ -1,6 +1,6 @@
 # Field Builder
 
-This project was designed with a Windows XP aesthetic. It demonstrates how a developer would build the admin controls of a product that allows users to create their own input forms.
+This project demonstrates how a developer would build the admin controls of a product and allows users to create their own input forms.
 
 The core requirements are completed and listed below:
 
